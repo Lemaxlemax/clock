@@ -10,7 +10,7 @@
 
 ### 教程
 1. 安装QQ浏览器，注意不要给它多余的权限
-2. 将chromedriver.exe放置在QQ浏览器文件目录中，即与TencentQQBrowserchrome.exe同级
+2. 将chromedriver.exe放置在QQ浏览器文件目录中，即与Tencent/QQBrowser/chrome.exe同级
 3. 根据requirements.txt安装库，可以搭建一个虚拟环境
 4. 修改mark.py里的手机号和密码变量，运行mark.py
-5. 可以把脚本打包成程序在计算机管理中设置定时（800am以后）开启，注意休眠和睡眠的选项
+5. 可以把脚本打包成程序在计算机管理中设置定时（8:00 am以后）开启，注意休眠和睡眠的选项
